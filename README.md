@@ -1,2 +1,2 @@
 # lib
-code library
+code library for all
